@@ -1,0 +1,14 @@
+
+
+.boxmodel{
+	width: 600px;
+	height: 200px;
+	background-color: yellowgreen;
+
+}
+
+input{
+	padding: 5px;
+	margin: 10px;
+
+}

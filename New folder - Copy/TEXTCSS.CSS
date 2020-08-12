@@ -1,0 +1,9 @@
+#textcss{
+	color: darkgoldenrod;
+	letter-spacing: 2px;
+	word-spacing: 5px;
+	direction: rtl;
+	text-indent: 5px;
+	text-align: center;
+	text-transform: uppercase;
+}

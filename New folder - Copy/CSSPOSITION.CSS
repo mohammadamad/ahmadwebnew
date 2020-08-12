@@ -1,0 +1,50 @@
+.father{
+	height:500px;
+	width: 600px;
+	background-color: darkred;
+	position: absolute;
+	
+}
+
+.child1{
+	height: 100px;
+	width: 100px;
+	background-color: green;
+	position: absolute;
+	left: 0;
+	z-index:;
+
+}
+
+
+.child2{
+	height: 100px;
+	width: 100px;
+	background-color: orange;
+	position: absolute;
+	right: 0;
+	z-index: ;
+}
+
+
+.child3{
+	height: 100px;
+	width: 100px;
+	background-color: yellowgreen;
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	z-index:5 ;
+
+}
+
+
+.child4{
+	height: 100px;
+	width: 100px;
+	background-color: royalblue;
+	position: absolute;
+	bottom: 0;
+	left:0;
+	z-index: ;
+}

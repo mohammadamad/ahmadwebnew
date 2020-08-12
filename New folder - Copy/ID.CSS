@@ -1,0 +1,30 @@
+.one{
+	height: 100vh;
+	width: 100%;
+	background-color: darkgoldenrod;
+	background-image: url('img2.jpg');
+	background-repeat: repeat;
+	background-size: 100% 100%;
+	text-align: center;
+	background-attachment: fixed;
+
+}
+
+.IMAGE1{
+	 font-style: italic;
+    font-size: 30px;
+    background-color: darkgoldenrod;
+    margin: 0;
+    padding: 0;
+}
+.IMAGE2{
+	height: 100vh;
+	width: 100%;
+	background-color: darkgoldenrod;
+	background-image: url('img6.jpg');
+	background-repeat: repeat;
+	background-size: 100% 100%;
+	text-align: center;
+	background-attachment: fixed;
+}
+
